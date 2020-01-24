@@ -1,0 +1,45 @@
+#head
+{
+ height:200px;
+ width:auto;
+ background-color:pink;
+ display:flex;
+ flex-direction:row-reverse;
+}
+#middle
+{
+	height:250px;
+	width:auto;
+	 background-color:black;
+}
+#down
+{
+	height:350px;
+	width:auto;
+	 background-color:green;
+}
+.logo
+{
+	width:100px;
+	background-color:green;
+	height:100%;
+	justify-content:center;
+	align-items:center;
+	align-items:center;
+	display:flex;
+	
+}
+li 
+{
+	display:inline;
+	padding:100px;
+	
+	
+}
+li:hover
+{
+	background-color:gold;
+	box-medium:3px 3px 5px 6px;
+
+}
+	
